@@ -1,0 +1,9 @@
+C:\Users\kevin\Desktop\CSharpProjectEmpty\Data\bin\Debug\Data.dll
+C:\Users\kevin\Desktop\CSharpProjectEmpty\Data\bin\Debug\Data.pdb
+C:\Users\kevin\Desktop\CSharpProjectEmpty\Data\obj\Debug\Data.dll
+C:\Users\kevin\Desktop\CSharpProjectEmpty\Data\obj\Debug\Data.pdb
+C:\Users\kevin\Desktop\CSharpProjectEmpty\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\bin\Debug\Data.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\bin\Debug\Data.pdb
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\obj\Debug\Data.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\obj\Debug\Data.pdb

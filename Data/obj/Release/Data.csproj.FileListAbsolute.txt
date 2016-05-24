@@ -1,0 +1,9 @@
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\bin\Release\Data.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\bin\Release\Data.pdb
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\obj\Release\Data.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Data\obj\Release\Data.pdb
+F:\Programmering\C#\RSSFinal\CSharpProjectEmpty\CSharpProjectEmpty\Data\bin\Release\Data.dll
+F:\Programmering\C#\RSSFinal\CSharpProjectEmpty\CSharpProjectEmpty\Data\bin\Release\Data.pdb
+F:\Programmering\C#\RSSFinal\CSharpProjectEmpty\CSharpProjectEmpty\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+F:\Programmering\C#\RSSFinal\CSharpProjectEmpty\CSharpProjectEmpty\Data\obj\Release\Data.dll
+F:\Programmering\C#\RSSFinal\CSharpProjectEmpty\CSharpProjectEmpty\Data\obj\Release\Data.pdb

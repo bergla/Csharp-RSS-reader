@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Category xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CategoryItem>
+    <Id>d24013c6-5779-4b73-8c07-254303769aba</Id>
+    <Name>Teknik</Name>
+  </CategoryItem>
+  <CategoryItem>
+    <Id>0c4de30d-0dff-498c-88cb-e7d22d2cd965</Id>
+    <Name>Samhälle</Name>
+  </CategoryItem>
+  <CategoryItem>
+    <Id>9da5fb93-a0b2-4621-a594-1711d1e22511</Id>
+    <Name>Mat</Name>
+  </CategoryItem>
+</Category>

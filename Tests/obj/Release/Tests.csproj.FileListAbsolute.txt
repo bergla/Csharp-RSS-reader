@@ -1,0 +1,9 @@
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\bin\Release\Tests.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\bin\Release\Tests.pdb
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\bin\Release\Logic.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\bin\Release\Data.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\bin\Release\Logic.pdb
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\bin\Release\Data.pdb
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\obj\Release\Tests.dll
+C:\Users\kevin\Desktop\CB\CSharpProjectEmpty\Tests\obj\Release\Tests.pdb
